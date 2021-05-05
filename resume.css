@@ -215,6 +215,11 @@ a{
     height: auto; 
     margin-top: 63px;
 }
+#datacquity{
+    width: 190px; 
+    height: auto; 
+    margin-top: 80px;
+}
 .my_projects .cards .image-box:hover{
     transform: scale(1.1);
 }
@@ -341,12 +346,18 @@ hr{
         margin-top: 73px;
         margin-left: 12px;
     }
+    #datacquity{
+        width: 160px;
+        height: auto;
+        margin-top: 80px;
+        margin-left: 12px;
+    }
     .my_resume p{
         font-size: 26px;
     }
     .my_resume{
         width: 96%;
-	margin: auto;
+	    margin: auto;
     }
     .photography{
         width: 98%;
