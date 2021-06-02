@@ -233,6 +233,7 @@ a{
 .my_projects .cards .title{
     font-size: 42px; 
     font-weight: bold;
+    margin-bottom: 2%;
 }
 
 hr{
@@ -340,6 +341,12 @@ hr{
         background-image: url(./images/me1.jpg);
         background-size: 920px 600px;
     }
+    .about_me{
+        margin-top: -10%;
+    }
+    .heading{
+        margin-bottom: 0;
+    }
     #sharp{
         width: 160px;
         height: auto;
@@ -347,10 +354,9 @@ hr{
         margin-left: 12px;
     }
     #datacquity{
-        width: 160px;
+        width: 210px;
         height: auto;
         margin-top: 80px;
-        margin-left: 12px;
     }
     .my_resume p{
         font-size: 26px;
@@ -383,14 +389,15 @@ hr{
     }
     .my_projects .cards{
         width: 88%; 
-        margin: auto; 
+        margin: auto;
+        margin-bottom: 4%;
         height: 300px;
         display: flex; 
         justify-content: center ;
     }
     .my_projects .cards .image-box{
-        width: 28%; 
-        height: 220px; 
+        width: 30%; 
+        height: 240px; 
         border-radius: 30px; 
         background-color: azure; 
         text-align: center; 
@@ -398,6 +405,7 @@ hr{
     .my_projects .cards .image-box img{
         width: 200px; 
         height: auto;
+        margin-top: 10%;
     }
     .my_projects .cards .image-box #sharp{
         width: 170px; 
