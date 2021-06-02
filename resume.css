@@ -220,6 +220,10 @@ a{
     height: auto; 
     margin-top: 80px;
 }
+#todo {
+    width: 160px;
+    height: auto;
+}
 .my_projects .cards .image-box:hover{
     transform: scale(1.1);
 }
@@ -357,6 +361,11 @@ hr{
         width: 210px;
         height: auto;
         margin-top: 80px;
+    }
+    #todo {
+    width: 160px;
+    height: auto;
+    margin-top: 5%;
     }
     .my_resume p{
         font-size: 26px;
